@@ -1,0 +1,17 @@
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\College_project\V.S. IDE\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\College_project\V.S. IDE\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\College_project\V.S. IDE\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\College_project\V.S. IDE\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\College_project\V.S. IDE\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\College_project\V.S. IDE\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
